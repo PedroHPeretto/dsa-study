@@ -26,4 +26,4 @@
 
 - Heaps
 
-> My study was complemented using LeetCode exercises to test my knowledges.
+> My study was complemented using LeetCode exercises to test my knowledge.
