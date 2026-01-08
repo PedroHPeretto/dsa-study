@@ -2,7 +2,7 @@
 
 > This repository was created with the purpose of storing some of my DSA solutions and implementations learned.
 
-## Structures studied:
+## Structures and concepts studied:
 
 - Big O Notation
 
